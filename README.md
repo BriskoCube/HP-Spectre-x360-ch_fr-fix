@@ -1,5 +1,5 @@
-# HP-Spectre-x360-ch_fr-fix
-Corrige le bug du clavier du HP Spectre x360 15ap07nz qui rend les touches &lt;, > et \ inutilisables
+# Correctif pour le clavier du HP Spectre x360 15ap07nz sous linux
+Corrige le bug du clavier suisse du HP Spectre x360 15ap07nz(doit fonctionner sur ceux de la même famille) qui rend les touches &lt;, > et \ inutilisables. Testé sur Linux Mint 19.1
 
 ## Mise en place
 Modifier dans linux avec les fichiers fournis ou appliquer les différences fournies à la fin.
