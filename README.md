@@ -50,6 +50,5 @@ xkb_symbols "fr_x360" {
  name[Group1] = "French (Switzerland, x360)";
     include "ch(fr)"
     key <RCTL> { [       less,    greater,    backslash, brokenbar  ] };
- // add here below whatever customization you like
 };
 ```
