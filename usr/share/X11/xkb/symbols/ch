@@ -216,3 +216,11 @@ partial alphanumeric_keys
 	xkb_symbols "sun_type6_fr" {
 	include "sun_vndr/ch(sun_type6_fr)"
 };
+
+
+xkb_symbols "fr_x360" {
+ name[Group1] = "French (Switzerland, x360)";
+    include "ch(fr)"
+    key <RCTL> { [       less,    greater,    backslash, brokenbar  ] };
+ // add here below whatever customization you like
+};

@@ -653,6 +653,7 @@
   fr              ch: French (Switzerland)
   fr_nodeadkeys   ch: French (Switzerland, no dead keys)
   fr_sundeadkeys  ch: French (Switzerland, with Sun dead keys)
+  fr_x360         ch: French (Switzerland, x360)
   fr_mac          ch: French (Switzerland, Macintosh)
   de_mac          ch: German (Switzerland, Macintosh)
   syc             sy: Syriac

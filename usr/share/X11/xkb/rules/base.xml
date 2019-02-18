@@ -5002,6 +5002,17 @@
         </variant>
         <variant>
           <configItem>
+            <name>fr_x360</name>
+            
+            <shortDescription>fr</shortDescription>
+            <description>French (Switzerland, x360)</description>
+            <languageList>
+              <iso639Id>fra</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>de_mac</name>
             
             <shortDescription>de</shortDescription>
